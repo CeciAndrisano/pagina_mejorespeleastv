@@ -165,14 +165,14 @@
   }
   
   .menu-lateral .fas {
-    color: #606060;
+    color: #727171;
     margin-right: 32px;
     width: 20px;
     text-align: center;
   }
   
   .menu-lateral a.active .fas {
-    color: #ff0000;
+    color: #d80000;
   }
   
   .menu-lateral hr {
